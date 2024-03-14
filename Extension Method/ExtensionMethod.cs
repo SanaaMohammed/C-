@@ -1,4 +1,17 @@
-﻿using System;
+
+/*
+    
+   - An extension method in C# is a static method of a static class that can be invoked using the syntax of an instance method. 
+    This feature allows developers to add new methods to the public contract of an existing CLR type,
+    without having to sub-class it or recompile the original type.
+
+    both calss and method must be static
+
+
+*/
+
+
+using System;
 using System.Diagnostics.Metrics;
 using System.Globalization;
 using System.Net.Http.Headers;
